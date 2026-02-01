@@ -52,7 +52,7 @@ This package is a complete overhaul (a fork) of the original `discord-html-trans
 
 ## 👋 Support
 
-For support, please open a thread on [this](https://discord.gg/WxG8XWjvmX) server or send a DM to `qorp` on Discord. / Pour tout support, ouvrez un thread sur ce serveur ou envoyez un DM à `qorp` sur Discord.
+For support, please send a DM to `qorp` on Discord.
 
 ## 🖨️ Example Output
 
