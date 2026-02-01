@@ -1,7 +1,7 @@
 # `spectre-html-transcripts` (Selfbot v13)
 
 [![Discord](https://img.shields.io/discord/1402994225108488213?label=discord)](https://discord.gg/WxG8XWjvmX)
-[![npm](https://img.shields.io/npm/dw/spectre-html-transcripts)](http://npmjs.org/package/spectre-html-transcripts)
+[![npm downloads](https://img.shields.io/npm/dt/spectre-html-transcripts)](https://www.npmjs.com/package/spectre-html-transcripts)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/6sfy/spectre-html-transcripts)
 ![GitHub Repo stars](https://img.shields.io/github/stars/6sfy/spectre-html-transcripts?style=social)
 
